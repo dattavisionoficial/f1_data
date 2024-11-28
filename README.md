@@ -4,7 +4,5 @@ Esse projeto tem como base alguns arquivos .csv extraídos do site: https://erga
 
 São necessárias as seguintes bibliotecas para reproduzir o código:
 
-1 - pandas
-2 - datetime, date
-3 - seaborn
-4 - matplotlib.pyplot
+1 - Instalação das bibliotecas:
+!pip install pandas seaborn matplotlib ou pip install pandas seaborn matplotlib
